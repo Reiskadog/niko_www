@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(200,200,200);
+}
+h1 {
+    color:rgb(75,75,75);
+    font-family: fantasy;
+    font-size: 25px;
+    background-color: rgb(250,150,150);
+    text-align: left;
+    padding-left: 50px;
+}
+h2 {
+    color:rgb(75,75,75);
+    font-family: fantasy;
+    font-size: 20px;
+    background-color: rgb(250,150,150);
+    text-align: left;
+    padding-left: 50px;
+}
+p {
+    font-family: fantasy;
+    font-size: 15px;
+}
