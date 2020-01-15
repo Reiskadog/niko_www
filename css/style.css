@@ -7,7 +7,7 @@ h1 {
     font-size: 25px;
     background-color: rgb(250,150,150);
     text-align: left;
-    padding-left: 50px;
+    padding-left: 200px;
 }
 h2 {
     color:rgb(75,75,75);
@@ -15,9 +15,27 @@ h2 {
     font-size: 20px;
     background-color: rgb(250,150,150);
     text-align: left;
-    padding-left: 50px;
+    padding-left: 200px;
 }
-p {
-    font-family: fantasy;
+#standard {
+    font-family: sans-serif;
+    color: rgb(50,100,50);
     font-size: 15px;
+}
+header {
+    color:rgb(250,0,0);
+}
+article {
+    color:rgb(0,250,0);
+}
+content {
+    color:rgb(0,0,250);
+}
+h1.warning,note{
+    color:rgb(0,0,250);
+    background-color: rgb(250,0,0);
+}
+article > p{
+    color: rgb(50,50,250);
+    border: 4px solid #666;
 }
