@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(150,150,255);
+}
+
+.container {
+    background-color: rgb(255,255,255);
+    max-width: 960px;
+}
+
+.greybg {
+    background-color: rgb(200,200,200);
+}
